@@ -55,9 +55,9 @@ Especializado en Unity y C# aplicando principios SOLID. Experiencia sólida en f
 - 📦 Tecnologías principales
   - C# · .NET · JavaScript · PHP · HTML5 · CSS3 · Bash · Unity · MySQL · Docker · Git
 - 🔧 Frameworks, motores y entornos
-  - Unity · .NET Core · Drupal · Docker Compose · GitHub Actions · Swagger
+  - Unity · .NET Core · Drupal · Symfony · Astro · Swagger
 - 🧰 Herramientas de desarrollo y flujo de trabajo
-  - Visual Studio · Rider · PhpStorm · Postman · XAMPP · Docker · phpMyAdmin · Figma · Git · GitHub · GitLab
+  - Visual Studio · Rider · PhpStorm · Postman · Slack · Docker · phpMyAdmin · Figma · Git · GitHub
 - 💡 Otros conocimientos relevantes
   - Creación de scripts CLI (Bash) · Automatización de despliegues · Configuración de entornos locales con Docker · Control de versiones · APIs RESTful · Documentación interactiva con Swagger · Debugging y testing funcional
 
@@ -103,9 +103,9 @@ Specialized in Unity and C# applying SOLID principles, modular design, and scala
 - 📦 Core Technologies
  - C# · .NET · JavaScript · PHP · HTML5 · CSS3 · Bash · Unity · MySQL · Docker · Git
 - 🔧 Frameworks, Engines & Environments
- - Unity · .NET Core · Drupal · Docker Compose · GitHub Actions · Swagger
+ - Unity · .NET Core · Drupal · Symfony · Astro · Swagger
 - 🧰 Development & Workflow Tools
- - Visual Studio · Rider · PhpStorm · Postman · XAMPP · Docker · phpMyAdmin · Figma · Git · GitHub · GitLab
+ - Visual Studio · Rider · PhpStorm · Postman · Slack · Docker · phpMyAdmin · Figma · Git · GitHub
 - 💡 Additional Relevant Skills
  - Bash CLI scripting · Deployment automation · Local environment setup with Docker · Version control · RESTful APIs · Interactive Swagger docs · Functional debugging & testing 
 
