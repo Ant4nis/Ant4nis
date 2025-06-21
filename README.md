@@ -48,32 +48,72 @@
 
 Especializado en Unity y C# aplicando principios SOLID. Experiencia sólida en frontend con Drupal y backend con PHP/MySQL. Desarrollo CLI en Bash y automatización de entornos. Comprometido con buenas prácticas y soluciones reutilizables.
 
-<h2></h2>
+## Sobre mí
 
-### 🛠️ Tecnologías y herramientas
+Desarrollador orientado a resultados con experiencia en desarrollo fullstack usando C#, .NET Core, Unity, SQL y herramientas modernas de automatización y despliegue como Docker y Bash.  
+He liderado tareas técnicas y trabajado en entornos ágiles con equipos multidisciplinares, diseñando soluciones eficientes tanto para productos como herramientas internas.  
+Más de 4 años de experiencia autodidacta.
 
-- 📦 Tecnologías principales
-  - C# · .NET · JavaScript · PHP · HTML5 · CSS3 · Bash · Unity · MySQL · Docker · Git
-- 🔧 Frameworks, motores y entornos
-  - Unity · .NET Core · Drupal · Symfony · Astro · Swagger
-- 🧰 Herramientas de desarrollo y flujo de trabajo
-  - Visual Studio · Rider · PhpStorm · Postman · Slack · Docker · phpMyAdmin · Figma · Git · GitHub
-- 💡 Otros conocimientos relevantes
-  - Creación de scripts CLI (Bash) · Automatización de despliegues · Configuración de entornos locales con Docker · Control de versiones · APIs RESTful · Documentación interactiva con Swagger · Debugging y testing funcional
+---
 
-<h2></h2>
+## Experiencia (Dev)
 
-### 🌟 Proyectos destacados
+### Desarrollador Fullstack - Prácticas | CodeArts Solutions  
+**Marzo 2025 – Junio 2025 · Remoto**
 
-- 🎮 **[2D RPG Game Example](https://github.com/Ant4nis/ForgottenLibrary)** —  Ejemplo de juego tipo RPG en 2D hecho en Unity. Incluye un sistema de inventario modular, estadísticas de personajes, diferentes habilidades a mejorar, misiones y sistema de guardado/carga. Ideal como base para proyectos de rol personalizados..  
-- 🧩 **[Terror Template](https://github.com/Ant4nis/TerrorTemplate))** —  Plantilla base para desarrollar juegos de terror en Unity 2D. Cuenta con sistema de linterna, enemigos con IA básica, gestión de sustos (jumpscares), y entorno oscuro con efectos atmosféricos. Diseñado para facilitar prototipos rápidos de horror.
-- 🧩 **[Proyecto Centinela](https://github.com/Ant4nis/Proyecto-Centinela)** — Sistema de generación de niveles procedural con IA para videojuegos 2D. Diseñado en Unity y respaldado por una API externa para autenticar usuarios, registrar puntuaciones y analizar comportamiento en tiempo real.  
-- 🧩 **[Drupal_installer](https://github.com/Ant4nis/DrupalManager)** — Script de shell que proporciona un menú interactivo en español para facilitar el trabajo con proyectos Drupal dentro de contenedores Docker. Permite levantar y bajar servicios, activar temas y módulos personalizados, y consultar chuletas rápidas de Git y Docker. Además, detecta automáticamente la rama actual.
+#### Líder de equipo Frontend.
+- Coordinación de equipo: asignación de tareas, revisión de código, control de versiones.
+- Desarrollo de plantillas Twig, HTML5, CSS3 y PHP adaptadas a las necesidades del cliente.
+- Integración frontend-backend con Drupal y despliegue con Docker.
+- Trabajo bajo metodología Scrum Agile.
+- Diseño e implementación de un instalador automatizado en Bash (idea propia).
+- **Resultado**: herramienta oficial, **redujo un 70%** el tiempo de despliegue.
+
+#### Desarrollador Backend - Prácticas
+
+- Desarrollo de app de gestión bancaria móvil con C# y .NET.
+- Frontend funcional en Unity.
+- Despliegue con Docker.
+- Participación activa en equipo ágil con metodología Scrum.
+
+---
+
+## Tecnologías y herramientas
+
+**Lenguajes:**  
+C#, JavaScript, PHP, Bash, SQL, HTML5, CSS3
+
+**Frameworks / Entornos:**  
+.NET Core, Unity, Drupal, Symfony, Swagger
+
+**Herramientas:**  
+Git, Visual Studio, Rider, PhpStorm, Docker, Postman
+
+**Metodologías y buenas prácticas:**  
+Scrum, Agile, principios SOLID
+
+---
+
+## Proyectos
+
+- [**2D RPG Game Example**](https://github.com/Ant4nis/ForgottenLibrary)  
+  Ejemplo de juego tipo RPG en 2D hecho en Unity.
+
+- [**Terror Template**](https://github.com/Ant4nis/TerrorTemplate)  
+  Plantilla base para desarrollar juegos de terror en Unity.
+
+- [**Proyecto Centinela**](https://github.com/Ant4nis/Proyecto-Centinela)  
+  Videojuego 2D en Unity con backend en ASP.NET Core.
+
+- [**Drupal Manager**](https://github.com/Ant4nis/DrupalManager)  
+  Script de shell con menú CLI para facilitar el trabajo con proyectos Drupal en contenedores Docker.
 
 ### 🚧 Proyectos en desarrollo
 
-- 🎬 **[Videojuego narrativo y cinemático en 2D](#)** — Juego en desarrollo con fuerte inspiración en clásicos como Flashback, Another World, Lunark y Oddworld: Abe's Oddysee. Presenta animaciones rotoscopiadas, pixel art detallado y ambientación narrativa con énfasis en la exploración, las decisiones y la construcción de mundo.
-- ⚔️ **[Táctico espacial estilo Buck Rogers / Wasteland](#)** — RPG táctico por turnos en 2D con interfaz inspirada en Wasteland y ambientación en un universo de mercenarios espaciales al estilo Buck Rogers. Combina exploración planetaria, gestión de equipo, y combates estratégicos con enfoque narrativo.
+-  **[Videojuego narrativo y cinemático en 2D](#)**  
+   Juego en desarrollo con fuerte inspiración en clásicos como Flashback, Another World, Lunark y Oddworld: Abe's Oddysee. Presenta animaciones rotoscopiadas, pixel art detallado y ambientación narrativa con énfasis en la exploración, las decisiones y la construcción de mundo.
+-  **[Táctico espacial estilo Buck Rogers / Wasteland](#)**  
+   RPG táctico por turnos en 2D con interfaz inspirada en Wasteland y ambientación en un universo de mercenarios espaciales al estilo Buck Rogers. Combina exploración planetaria, gestión de equipo, y combates estratégicos con enfoque narrativo.
     
 <h2></h2>
 
@@ -83,7 +123,7 @@ Especializado en Unity y C# aplicando principios SOLID. Experiencia sólida en f
   <a href="https://www.linkedin.com/in/antonio-r-paredes-2b0794199" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:tony.rpp@gmail.com" target="_blank">
+  <a href="mailto:antonio.jobs@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>  
 </div>
@@ -94,34 +134,77 @@ Especializado en Unity y C# aplicando principios SOLID. Experiencia sólida en f
 
 ### 👋 Hi! I'm Antonio R Paredes [Ant4nis]
 
-Specialized in Unity and C# applying SOLID principles, modular design, and scalable patterns. Strong experience in Drupal frontend and PHP/MySQL backend. Skilled in Bash CLI tooling and environment automation. Committed to clean code and reusable solutions for production and educational workflows.
+Specialized in Unity and C# applying SOLID principles. Solid front-end experience with Drupal and back-end experience with PHP/MySQL. Bash CLI development and environment automation. Committed to best practices and reusable solutions.
 
 <h2></h2>
 
-### 🛠️ Technologies and tools
+## About Me
 
-- 📦 Core Technologies
- - C# · .NET · JavaScript · PHP · HTML5 · CSS3 · Bash · Unity · MySQL · Docker · Git
-- 🔧 Frameworks, Engines & Environments
- - Unity · .NET Core · Drupal · Symfony · Astro · Swagger
-- 🧰 Development & Workflow Tools
- - Visual Studio · Rider · PhpStorm · Postman · Slack · Docker · phpMyAdmin · Figma · Git · GitHub
-- 💡 Additional Relevant Skills
- - Bash CLI scripting · Deployment automation · Local environment setup with Docker · Version control · RESTful APIs · Interactive Swagger docs · Functional debugging & testing 
+Results-driven developer with experience in fullstack development using C#, .NET Core, Unity, SQL, and modern automation and deployment tools such as Docker and Bash.  
+I have led technical tasks and collaborated in agile environments with multidisciplinary teams, designing efficient solutions for both products and internal tools.  
+Over 4 years of self-taught experience.
 
-<h2></h2>
+---
 
-### 🌟 Featured Projects
+## Experience (Dev)
 
-- 🎮 **[2D RPG Game Example](https://github.com/Ant4nis/ForgottenLibrary)** — A 2D RPG example built in Unity. Includes a modular inventory system, character stats, upgradable abilities, quests, and save/load functionality. Ideal as a base for custom RPG projects. 
-- 🧩 **[Terror Template](https://github.com/Ant4nis/TerrorTemplate))** — A base template for developing 2D horror games in Unity. Includes a flashlight system, basic AI enemies, jump scare management, and a dark atmosphere with ambient effects. Designed for quick horror prototyping.  
-- 🧩 **[Project Centinel](https://github.com/Ant4nis/Proyecto-Centinela))** — A procedural level generator for 2D games using AI. Built in Unity and backed by an external API for user authentication, score tracking, and real-time behavioral analysis. Designed for gamified educational or evaluation environments.
-- 🧩 **[Drupal_installer](#)** — A shell script providing an interactive menu (in Spanish) to streamline Drupal project workflows inside Docker containers. Supports starting/stopping services, enabling themes and custom modules, and accessing quick Git and Docker cheatsheets. Automatically detects the current Git branch.
+### Fullstack Developer - Internship | CodeArts Solutions  
+**March 2025 – June 2025 · Remote**
 
-### 🚧 Projects in Progress
+#### Frontend Team Lead
+- Team coordination: task assignment, code review, version control.
+- Developed Twig, HTML5, CSS3, and PHP templates tailored to client needs.
+- Frontend-backend integration with Drupal and Docker-based deployment.
+- Worked under Scrum Agile methodology.
+- Designed and implemented a Bash-based automated installer (self-initiated).
+- **Result**: Tool was officially adopted, **reduced deployment time by 70%**.
 
-- 🎬 **[Narrative & Cinematic 2D Game](#)** — A 2D game in development inspired by classics like Flashback, Another World, Lunark, and Oddworld: Abe's Oddysee. Features rotoscoped animations, detailed pixel art, and narrative-driven gameplay focused on exploration, decision-making, and worldbuilding.
-- ⚔️ **[Sci-Fi Tactical RPG (Buck Rogers/Wasteland Style)](#)** — A turn-based 2D tactical RPG inspired by Wasteland and the Buck Rogers universe. Combines planetary exploration, squad management, and strategic combat with a strong narrative focus.
+#### Backend Developer - Internship
+
+- Developed a mobile banking management app using C# and .NET.
+- Unity-based frontend interface.
+- Deployment handled via Docker.
+- Active participation in agile team using Scrum methodology.
+
+---
+
+## Tech Stack
+
+**Languages:**  
+C#, JavaScript, PHP, Bash, SQL, HTML5, CSS3
+
+**Frameworks / Environments:**  
+.NET Core, Unity, Drupal, Symfony, Swagger
+
+**Tools:**  
+Git, Visual Studio, Rider, PhpStorm, Docker, Postman
+
+**Methodologies & Practices:**  
+Scrum, Agile, SOLID principles<h2></h2>
+
+---
+
+## Projects
+
+- [**2D RPG Game Example**](https://github.com/Ant4nis/ForgottenLibrary)  
+  Sample 2D RPG built with Unity.
+
+- [**Terror Template**](https://github.com/Ant4nis/TerrorTemplate)  
+  Starter template for creating horror games in Unity.
+
+- [**Proyecto Centinela**](https://github.com/Ant4nis/Proyecto-Centinela)  
+  2D video game developed in Unity with ASP.NET Core backend.
+
+- [**Drupal Manager**](https://github.com/Ant4nis/DrupalManager)  
+  Bash script with CLI menu to simplify working with Dockerized Drupal environments.
+
+### 🚧 Projects in Development
+
+-  [**Narrative Cinematic 2D Game**](#)  
+   A 2D game in development, heavily inspired by classics like *Flashback*, *Another World*, *Lunark*, and *Oddworld: Abe's Oddysee*. Features rotoscoped animations, detailed pixel art, and a narrative-focused atmosphere with exploration, decision-making, and worldbuilding.
+
+-  [**Turn-Based Space Tactics RPG**](#)  
+   2D tactical RPG inspired by *Buck Rogers* and *Wasteland*. Combines planetary exploration, squad management, and strategic turn-based combat within a mercenary-themed sci-fi universe.
 
 <h2></h2>
 
@@ -131,7 +214,7 @@ Specialized in Unity and C# applying SOLID principles, modular design, and scala
   <a href="https://www.linkedin.com/in/antonio-r-paredes-2b0794199" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:tony.rpp@gmail.com" target="_blank">
+  <a href="mailto:antonio.jobs@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>  
 </div>
