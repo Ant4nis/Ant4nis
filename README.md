@@ -66,8 +66,8 @@ Más de 4 años de experiencia autodidacta.
 - Desarrollo de plantillas Twig, HTML5, CSS3 y PHP adaptadas a las necesidades del cliente.
 - Integración frontend-backend con Drupal y despliegue con Docker.
 - Trabajo bajo metodología Scrum Agile.
-- Diseño e implementación de un instalador automatizado en Bash (idea propia).
-- **Resultado**: Esta iniciativa eliminó bloqueos recurrentes del equipo, aceleró **~70%** las implantaciones y permitió terminar la web oficial en 2 meses con un equipo reducido, cuando se preveían varios grupos y mayor plazo.
+- Diseño e implementación de un instalador automatizado en Bash (Docker + Drush) para Drupal (idea propia).
+  - ✔️ **Resultado**: Eliminó bloqueos recurrentes del equipo, redujo **~70% el tiempo de despliegue** y permitió **entregar la web oficial en 2 meses** con un equipo reducido, pese al plan inicial de varios equipos y mayor plazo.
 
 #### Desarrollador Backend - Prácticas
 
