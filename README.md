@@ -67,7 +67,7 @@ Más de 4 años de experiencia autodidacta.
 - Integración frontend-backend con Drupal y despliegue con Docker.
 - Trabajo bajo metodología Scrum Agile.
 - Diseño e implementación de un instalador automatizado en Bash (idea propia).
-- **Resultado**: herramienta oficial, **redujo un 70%** el tiempo de despliegue.
+- **Resultado**: Esta iniciativa eliminó bloqueos recurrentes del equipo, aceleró **~70%** las implantaciones y permitió terminar la web oficial en 2 meses con un equipo reducido, cuando se preveían varios grupos y mayor plazo.
 
 #### Desarrollador Backend - Prácticas
 
