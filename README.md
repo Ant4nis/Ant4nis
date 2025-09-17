@@ -110,10 +110,13 @@ Scrum, Agile, principios SOLID
 
 ### 🚧 Proyectos en desarrollo
 
--  **[Videojuego narrativo y cinemático en 2D](#)**  
+-  **[App móvil](#)**  
+   App móvil de suscripción a contenidos de deporte y nutrición por un profesional en medicina china: rutinas guiadas, planes personalizados, seguimiento de hábitos y biblioteca premium actualizada. 
+-  **[Página Web](#)**  
+   A la par con la app para consultar desde PC: misma suscripción y contenido sincronizado, panel de progreso, pagos y comunidad accesibles en cualquier dispositivo.
+-  **[Videojuego narrativo y cinemático en 2D](#)**
    Juego en desarrollo con fuerte inspiración en clásicos como Flashback, Another World, Lunark y Oddworld: Abe's Oddysee. Presenta animaciones rotoscopiadas, pixel art detallado y ambientación narrativa con énfasis en la exploración, las decisiones y la construcción de mundo.
--  **[Táctico espacial estilo Buck Rogers / Wasteland](#)**  
-   RPG táctico por turnos en 2D con interfaz inspirada en Wasteland y ambientación en un universo de mercenarios espaciales al estilo Buck Rogers. Combina exploración planetaria, gestión de equipo, y combates estratégicos con enfoque narrativo.
+
     
 <h2></h2>
 
@@ -156,8 +159,8 @@ Over 4 years of self-taught experience.
 - Developed Twig, HTML5, CSS3, and PHP templates tailored to client needs.
 - Frontend-backend integration with Drupal and Docker-based deployment.
 - Worked under Scrum Agile methodology.
-- Designed and implemented a Bash-based automated installer (self-initiated).
-- **Result**: Tool was officially adopted, **reduced deployment time by 70%**.
+- Design and implementation of an automated installer in Bash (Docker + Drush) for Drupal (own initiative).
+- ✔️ **Result:** Eliminated recurring team blockers, reduced **~70% deployment time**, and enabled **delivery of the official website in 2 months** with a small team, despite the initial plan for multiple teams and a longer timeline.
 
 #### Backend Developer - Internship
 
@@ -200,11 +203,12 @@ Scrum, Agile, SOLID principles<h2></h2>
 
 ### 🚧 Projects in Development
 
+-  [**Mobile App**](#)  
+   Subscription-based mobile app offering sports and nutrition content by a Traditional Chinese Medicine professional: guided routines, personalized plans, habit tracking, and an updated premium library.
+-  [**Website**](#)  
+   In tandem with the app for desktop access: same subscription and synchronized content, progress dashboard, payments, and community available on any device.
 -  [**Narrative Cinematic 2D Game**](#)  
    A 2D game in development, heavily inspired by classics like *Flashback*, *Another World*, *Lunark*, and *Oddworld: Abe's Oddysee*. Features rotoscoped animations, detailed pixel art, and a narrative-focused atmosphere with exploration, decision-making, and worldbuilding.
-
--  [**Turn-Based Space Tactics RPG**](#)  
-   2D tactical RPG inspired by *Buck Rogers* and *Wasteland*. Combines planetary exploration, squad management, and strategic turn-based combat within a mercenary-themed sci-fi universe.
 
 <h2></h2>
 
