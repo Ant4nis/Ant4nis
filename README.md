@@ -57,6 +57,9 @@ He liderado tareas técnicas como Scrum Master y trabajado en entornos ágiles c
 
 ## Experiencia (Dev)
 
+### MegaCat Studios
+Junio 2025 - Agosto 2025 - Contrato por Obra
+
 ### Desarrollador Fullstack  | CodeArts Solutions  
 **Marzo 2024 – Junio 2025 · Remoto**
 
