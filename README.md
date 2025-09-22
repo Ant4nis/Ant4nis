@@ -51,7 +51,7 @@ Especializado en Unity y C# aplicando principios SOLID. Experiencia sólida en f
 ## Sobre mí
 
 Desarrollador orientado a resultados con experiencia en desarrollo fullstack usando C#, .NET Core, Unity, SQL y herramientas modernas de automatización y despliegue como Docker y Bash.  
-He liderado tareas técnicas y trabajado en entornos ágiles con equipos multidisciplinares, diseñando soluciones eficientes tanto para productos como herramientas internas.  
+He liderado tareas técnicas como Scrum Master y trabajado en entornos ágiles con equipos multidisciplinares, diseñando soluciones eficientes tanto para productos como herramientas internas.  
 Más de 4 años de experiencia autodidacta.
 
 ---
@@ -144,7 +144,7 @@ Specialized in Unity and C# applying SOLID principles. Solid front-end experienc
 ## About Me
 
 Results-driven developer with experience in fullstack development using C#, .NET Core, Unity, SQL, and modern automation and deployment tools such as Docker and Bash.  
-I have led technical tasks and collaborated in agile environments with multidisciplinary teams, designing efficient solutions for both products and internal tools.  
+I have led technical tasks as Scrum Master and collaborated in agile environments with multidisciplinary teams, designing efficient solutions for both products and internal tools.  
 Over 4 years of self-taught experience.
 
 ---
