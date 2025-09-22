@@ -52,14 +52,13 @@ Especializado en Unity y C# aplicando principios SOLID. Experiencia sólida en f
 
 Desarrollador orientado a resultados con experiencia en desarrollo fullstack usando C#, .NET Core, Unity, SQL y herramientas modernas de automatización y despliegue como Docker y Bash.  
 He liderado tareas técnicas como Scrum Master y trabajado en entornos ágiles con equipos multidisciplinares, diseñando soluciones eficientes tanto para productos como herramientas internas.  
-Más de 4 años de experiencia autodidacta.
 
 ---
 
 ## Experiencia (Dev)
 
-### Desarrollador Fullstack - Prácticas | CodeArts Solutions  
-**Marzo 2025 – Junio 2025 · Remoto**
+### Desarrollador Fullstack  | CodeArts Solutions  
+**Marzo 2024 – Junio 2025 · Remoto**
 
 #### Líder de equipo Frontend.
 - Coordinación de equipo: asignación de tareas, revisión de código, control de versiones.
@@ -69,13 +68,15 @@ Más de 4 años de experiencia autodidacta.
 - Diseño e implementación de un instalador automatizado en Bash (Docker + Drush) para Drupal (idea propia).
   - ✔️ **Resultado**: Eliminó bloqueos recurrentes del equipo, redujo **~70% el tiempo de despliegue** y permitió **entregar la web oficial en 2 meses** con un equipo reducido, pese al plan inicial de varios equipos y mayor plazo.
 
-#### Desarrollador Backend - Prácticas
+#### Desarrollador Backend 
 
 - Desarrollo de app de gestión bancaria móvil con C# y .NET.
 - Frontend funcional en Unity.
 - Despliegue con Docker.
 - Participación activa en equipo ágil con metodología Scrum.
 
+### Operador de Sistemas | Pccomponentes
+Octubre 2019 - Marzo 2024
 ---
 
 ## Tecnologías y herramientas
@@ -151,8 +152,8 @@ Over 4 years of self-taught experience.
 
 ## Experience (Dev)
 
-### Fullstack Developer - Internship | CodeArts Solutions  
-**March 2025 – June 2025 · Remote**
+### Fullstack Developer  | CodeArts Solutions  
+**March 2024 – June 2025 · Remote**
 
 #### Frontend Team Lead
 - Team coordination: task assignment, code review, version control.
@@ -162,7 +163,7 @@ Over 4 years of self-taught experience.
 - Design and implementation of an automated installer in Bash (Docker + Drush) for Drupal (own initiative).
 - ✔️ **Result:** Eliminated recurring team blockers, reduced **~70% deployment time**, and enabled **delivery of the official website in 2 months** with a small team, despite the initial plan for multiple teams and a longer timeline.
 
-#### Backend Developer - Internship
+#### Backend Developer 
 
 - Developed a mobile banking management app using C# and .NET.
 - Unity-based frontend interface.
