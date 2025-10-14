@@ -46,12 +46,13 @@
 
 ### 👋 ¡Hola! Soy Antonio R Paredes [Ant4nis]
 
-Especializado en Unity y C# aplicando principios SOLID. Experiencia sólida en frontend con Drupal y backend con PHP/MySQL. Desarrollo CLI en Bash y automatización de entornos. Comprometido con buenas prácticas y soluciones reutilizables.
+Especializado en Unity y C# y .NET aplicando principios SOLID. Experiencia sólida en frontend con Drupal y backend con PHP/MySQL. Desarrollo CLI en Bash y automatización de entornos. Comprometido con buenas prácticas y soluciones reutilizables.
 
 ## Sobre mí
+Desarrollador orientado a resultados con experiencia en desarrollo fullstack usando **C#, .NET Core, Unity, SQL** y desarrollo web con **drupal**. He liderado tareas técnicas como **Scrum Master** y trabajado en entornos **agile** con equipos multidisciplinares, utilizado control de versiones con **Git**, diseñando soluciones eficientes  tanto para productos como herramientas internas.
 
-Desarrollador orientado a resultados con experiencia en desarrollo fullstack usando C#, .NET Core, Unity, SQL y herramientas modernas de automatización y despliegue como Docker y Bash.  
-He liderado tareas técnicas como Scrum Master y trabajado en entornos ágiles con equipos multidisciplinares, diseñando soluciones eficientes tanto para productos como herramientas internas.  
+Me destaco por mi capacidad para analizar y resolver problemas con eficacia, aplicando enfoques prácticos y creativos para desarrollar soluciones funcionales alineadas con los principios SOLID. Poseo conocimientos en programación orientada a objetos y desarrollo de interfaces intuitivas. Disfruto colaborando en entornos de trabajo en equipo y adaptándome rápidamente a nuevas tecnologías y metodologías.
+
 Más de 4 años de experiencia autodidacta.
 
 ---
@@ -62,11 +63,11 @@ Más de 4 años de experiencia autodidacta.
 **Marzo 2025 – Junio 2025 · Remoto**
 
 #### Líder de equipo Frontend.
-- Coordinación de equipo: asignación de tareas, revisión de código, control de versiones.
+- Coordinación de equipo: asignación de tareas, revisión de código, control de versiones (GIT-GITHUB).
 - Desarrollo de plantillas Twig, HTML5, CSS3 y PHP adaptadas a las necesidades del cliente.
 - Integración frontend-backend con Drupal y despliegue con Docker.
 - Trabajo bajo metodología Scrum Agile.
-- Diseño e implementación de un instalador automatizado en Bash (Docker + Drush) para Drupal (idea propia).
+- Diseño e implementación de un instalador automatizado en Bash (Docker + Drush) para Drupal (iniciativa propia).
   - ✔️ **Resultado**: Eliminó bloqueos recurrentes del equipo, redujo **~70% el tiempo de despliegue** y permitió **entregar la web oficial en 2 meses** con un equipo reducido, pese al plan inicial de varios equipos y mayor plazo.
 
 #### Desarrollador Backend - Prácticas
@@ -137,14 +138,15 @@ Scrum, Agile, principios SOLID
 
 ### 👋 Hi! I'm Antonio R Paredes [Ant4nis]
 
-Specialized in Unity and C# applying SOLID principles. Solid front-end experience with Drupal and back-end experience with PHP/MySQL. Bash CLI development and environment automation. Committed to best practices and reusable solutions.
+Specialized in Unity and C# and .NET applying SOLID principles. Solid front-end experience with Drupal and back-end experience with PHP/MySQL. Bash CLI development and environment automation. Committed to best practices and reusable solutions.
 
 <h2></h2>
 
 ## About Me
+Results-driven developer with experience in fullstack development, using **C#, .NET Core, Unity, SQL** and web development with **drupal**. I have led technical tasks such as **Scrum Master** and worked in **agile** environments with multidisciplinary teams, used version control with **Git**, designing efficient solutions for both products and internal tools. 
 
-Results-driven developer with experience in fullstack development using C#, .NET Core, Unity, SQL, and modern automation and deployment tools such as Docker and Bash.  
-I have led technical tasks as Scrum Master and collaborated in agile environments with multidisciplinary teams, designing efficient solutions for both products and internal tools.  
+I stand out for my ability analyzing and solving problems effectively, applying practical and creative approaches to develop functional solutions aligned with SOLID principles. I have knowledge in object-oriented programming and development of intuitive interfaces. I enjoy collaborating in teamwork environments and quickly adapting to new technologies and methodologies.
+
 Over 4 years of self-taught experience.
 
 ---
@@ -155,7 +157,7 @@ Over 4 years of self-taught experience.
 **March 2025 – June 2025 · Remote**
 
 #### Frontend Team Lead
-- Team coordination: task assignment, code review, version control.
+- Team coordination: task assignment, code review, version control (GIT-GITHUB).
 - Developed Twig, HTML5, CSS3, and PHP templates tailored to client needs.
 - Frontend-backend integration with Drupal and Docker-based deployment.
 - Worked under Scrum Agile methodology.
