@@ -97,9 +97,6 @@ Scrum, Agile, principios SOLID
 
 ## Proyectos
 
-- [**2D RPG Game Example**](https://github.com/Ant4nis/ForgottenLibrary)  
-  Ejemplo de juego tipo RPG en 2D hecho en Unity.
-
 - [**Terror Template**](https://github.com/Ant4nis/TerrorTemplate)  
   Plantilla base para desarrollar juegos de terror en Unity.
 
@@ -190,9 +187,6 @@ Scrum, Agile, SOLID principles<h2></h2>
 ---
 
 ## Projects
-
-- [**2D RPG Game Example**](https://github.com/Ant4nis/ForgottenLibrary)  
-  Sample 2D RPG built with Unity.
 
 - [**Terror Template**](https://github.com/Ant4nis/TerrorTemplate)  
   Starter template for creating horror games in Unity.
